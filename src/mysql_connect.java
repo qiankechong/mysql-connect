@@ -124,6 +124,7 @@ import java.util.Properties;
                 }
                 list.add(lst);
                 ;
+                ;
             }
         } catch (SQLException e) {
             e.printStackTrace();
